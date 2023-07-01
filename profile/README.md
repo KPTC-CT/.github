@@ -1,3 +1,3 @@
 # Kuttukaran Polytechnic College (2k22-2k25)
 
-## Made by zx3
+## Made by v4_ish
